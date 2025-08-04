@@ -15,7 +15,7 @@
 
 アプリに関するご質問やご要望がございましたら、以下の方法でお問い合わせください：
 
-- **GitHub Issues:** https://github.com/taka9535/dog-walk-app/issues
+- **メール:** wansanpo.info@gmail.com
 - **プライバシーポリシー:** https://taka9535.github.io/wansanpo-App-PrivacyPolicy/
 
 ## よくある質問
