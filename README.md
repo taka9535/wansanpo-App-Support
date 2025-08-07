@@ -15,7 +15,7 @@
 
 アプリに関するご質問やご要望がございましたら、以下の方法でお問い合わせください：
 
-- **メール:** wansanpo.info@gmail.com
+- **メール:** cororoapps.info@gmail.com
 - **プライバシーポリシー:** https://taka9535.github.io/wansanpo-App-PrivacyPolicy/
 
 ## よくある質問
